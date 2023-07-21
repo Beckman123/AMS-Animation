@@ -1,0 +1,8 @@
+---
+id: ams-animation
+name: AMS Animation
+summary: Does an AMS animation
+desc: Animation of AMS logo for TIDBYT.
+author: William Beckhorn
+fileName: ams_animation.star
+packageName: amsanimation
